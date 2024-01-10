@@ -17,3 +17,21 @@ img{
      line-height: 50px;
      padding: 20px;
 }
+.text-meddil{
+       text-align: center;
+       color: red;
+       font-family: Merriweather;
+       font-size: 50px;
+       font-weight: 500;
+       padding: 50px;
+}
+.color-text{
+     color: #f00;
+     text-align: center;
+     font-family: Inter;
+     font-size: 24px;
+     font-style: normal;
+     font-weight: 700;
+     line-height: normal;
+     
+}
